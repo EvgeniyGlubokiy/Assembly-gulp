@@ -1,0 +1,19 @@
+
+
+@import "fonts";
+@import "mixins";
+@import "null";
+
+body{
+    background-color: #241663;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div{
+    background-image: url("../img/verstka-2.jpg");
+    width: 400px;
+    height: 280px;
+}
